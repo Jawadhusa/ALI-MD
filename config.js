@@ -47,7 +47,7 @@ MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // add anticall message 
 DESCRIPTION: process.env.DESCRIPTION || "*© 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑱𝒂𝒘𝒂𝒅 💀*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/5xsLHYTH/15a5aef74a52c5f3a39e4af19900d188.gif",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/0yfGgVyD/d8977078470f74bd6d125e498f36b30f.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> HEY 👋 IM ALIVE NOW*⚡",
 // add alive msg here 
