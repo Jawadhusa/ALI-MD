@@ -48,7 +48,7 @@ cmd({
         }
 
         // Image AI à envoyer
-        const ALIVE_IMG = 'https://i.ibb.co/JjD7C5sj/4396ea90a1dcd020.jpg'; // Remplacez par l'URL de votre image AI
+        const ALIVE_IMG = 'https://i.ibb.co/QvCq7c36/66958b4868dde29398dfe7e53b222521.jpg'; // Remplacez par l'URL de votre image AI
 
         // Légende avec des informations formatées
         const formattedInfo = `*🤖 ᴄʜᴀᴛ.ɢᴘᴛ ʀᴇsᴘᴏɴsᴇ:*\n\n${gptResponse}`;
@@ -63,7 +63,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363318387454868@newsletter',
-                    newsletterName: '𝐀ɭι̇ι̇ 𝐌Ɗ 𝐀𝐈 🤖',
+                    newsletterName: 'Jawad 🤖',
                     serverMessageId: 143
                 }
             }
@@ -123,7 +123,7 @@ cmd({
         }
 
         // AI image to attach
-        const AI_IMG = 'https://i.ibb.co/JjD7C5sj/4396ea90a1dcd020.jpg'; // Replace with a valid image URL
+        const AI_IMG = 'https://i.ibb.co/QvCq7c36/66958b4868dde29398dfe7e53b222521.jpg'; // Replace with a valid image URL
 
         // Formatted response text
         const formattedInfo = `*🤖 ʟʟᴀᴍᴀ3 ʀᴇsᴘᴏɴsᴇ:*\n\n${llamaResponse}`;
@@ -138,7 +138,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363318387454868@newsletter',
-                    newsletterName: '𝐀ɭι̇ι̇ 𝐌Ɗ 𝐀𝐈 🤖',
+                    newsletterName: 'Jawad 🤖',
                     serverMessageId: 143
                 }
             }
